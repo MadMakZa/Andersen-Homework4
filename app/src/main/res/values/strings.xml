@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HomeWork4</string>
+    <string name="hour_color">Hour Color</string>
+    <string name="min_color">Min Color</string>
+    <string name="sec_color">Sec Color</string>
+</resources>

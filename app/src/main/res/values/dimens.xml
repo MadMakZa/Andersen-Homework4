@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="radiusClocks">300dp</dimen>
+    <dimen name="StrokeWidth1">15sp</dimen>
+    <dimen name="StrokeWidth2">20sp</dimen>
+    <dimen name="StrokeWidth3">25sp</dimen>
+    <dimen name="StrokeWidth4">30sp</dimen>
+</resources>
